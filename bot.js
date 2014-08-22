@@ -3,7 +3,6 @@ var fs = require('fs');
 
 // Create the configuration
 var config = {
-  //channels: ["#cloudfoundry", "#cfstemcell"],
   channels: [""],
   server: "",
   botName: "dummy_",
