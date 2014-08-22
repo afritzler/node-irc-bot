@@ -6,6 +6,12 @@ An IRC Bot in Node.js
 Usage
 -----
 
+Install the necessary node modules via:
+
+```bash
+npm install
+``` 
+
 To run the IRC bot you need to execute the following command:
 
 ```bash
