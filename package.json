@@ -1,0 +1,9 @@
+{
+  "name": "node-bot",
+  "description": "A node IRC bot",
+  "author": "Andreas Fritzler <andreas.fritzler@gmail.com>",
+  "dependencies": {
+    "irc": ">= 0.3.7"
+  },
+  "engine": "node >= 0.4.1"
+}
