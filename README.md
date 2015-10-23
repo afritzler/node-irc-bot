@@ -1,7 +1,7 @@
 node-bot
 ========
 
-An IRC Bot in Node.js
+An IRC Bot written in Node.js
 
 Usage
 -----
