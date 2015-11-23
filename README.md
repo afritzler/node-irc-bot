@@ -3,8 +3,16 @@ node-bot
 
 An IRC Bot written in Node.js
 
-Usage
------
+# Prerequisits
+
+You need to install a few packages before installing the node specific packages:
+
+```
+sudo apt-get install libicu-dev
+```
+
+# Usage
+
 
 Install the necessary node modules via:
 
@@ -27,8 +35,8 @@ BOTNAME, tell me a joke
 
 The result will be a random quote from the ```DATAFILE``` you provided.
 
-License and Authors
--------------------
+# License and Authors
+
 Authors: Andreas Fritzler
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this software except in compliance with the License. You may obtain a copy of the License at
